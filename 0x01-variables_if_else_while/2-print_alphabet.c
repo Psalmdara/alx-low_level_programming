@@ -2,14 +2,14 @@
 #include <ctype.h>
 
 /**
- * Main - program that prints the alphabet in lowercase, followed by  * 	a new line
- * You can only use the putchar
- * Return: 0
+ * Main  - Program that print the alphabets in lower case
+ * And followed by a line
  */
 
 int main(void)
 {
 	int l = 'a';
+
 	while (l <= 'z')
 	{
 		putchar(l);
