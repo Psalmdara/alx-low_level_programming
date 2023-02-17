@@ -3,7 +3,6 @@
 /**
  * Main  - Program that prints the alphabets in lower case,
  *         followed by a line
- * You can only use the putchar twice
  * Return: 0
  */
 int main(void)
