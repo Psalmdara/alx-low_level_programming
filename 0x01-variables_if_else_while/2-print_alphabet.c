@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * Main - main block
- * 
+ * Main - A program that print the alphebets in lower case
+ * Return: 0
  */
 int main(void)
 {
