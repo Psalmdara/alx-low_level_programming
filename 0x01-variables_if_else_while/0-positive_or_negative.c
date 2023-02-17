@@ -1,7 +1,8 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 /* Main - main block
-* Get a random number and get if it's postive,negative or zero
+* Get a random number and know if it's postive,negative or zero
 */
 int main(void)
 {
