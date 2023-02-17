@@ -3,6 +3,7 @@
 /**
  * Main  - Program that prints the alphabets in lower case,
  *         followed by a line
+ * Description: Program that prints the alphabets explained
  * Return: 0
  */
 int main(void)
