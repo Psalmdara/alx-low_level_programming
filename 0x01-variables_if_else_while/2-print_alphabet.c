@@ -2,8 +2,9 @@
 #include <ctype.h>
 
 /**
- * Main  - Program that print the alphabets in lower case
- * And followed by a line
+ * Main  - Program that prints the alphabets in lower case,
+ * followed by a line
+ * Return: 0
  */
 
 int main(void)
