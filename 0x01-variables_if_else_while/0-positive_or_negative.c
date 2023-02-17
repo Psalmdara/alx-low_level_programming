@@ -3,6 +3,7 @@
 #include <time.h>
 /* Main - main block
 * Get a random number and know if it's postive,negative or zero
+* return: 0
 */
 int main(void)
 {
