@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-	int c;
+	char c;
 
 	for (c = 'z'; c >= 'a'; c--)
 	{
@@ -14,4 +14,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-
