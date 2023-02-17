@@ -2,6 +2,7 @@
 #include <stdlib.h>
 /**
  * Main - A program that print the alphebets in lower case
+ * followwd by a line
  * Return: 0
  */
 int main(void)
