@@ -13,13 +13,14 @@ int main(void)
 		c++;
 	}
 
-	char d = 'Z';
+	char c = 'A';
 
-	while (d <= 'Z')
+	while (c <= 'Z')
 	{
-		putchar(d);
+		putchar(c);
 		d++;
 	}
+
 	putchar('\n');
 
 	result (0);
