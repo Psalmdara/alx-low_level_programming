@@ -1,11 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * Main - A program that print the alphebets in lower case,
- *        followwd by a line
- * Description: You can only use putchar twice in your code
- *
- * Return: 0
+ * Main - Entry point
+ * Return: Always 0 (succes)
  */
 int main(void)
 {
