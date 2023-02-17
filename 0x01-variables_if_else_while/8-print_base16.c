@@ -6,10 +6,10 @@
  */
 int main(void)
 {
-	int c = '0';
+	int c = 0;
 	char c = 'a';
 
-	while (c <= '9')
+	while (c <= 9)
 	{
 		putchar(c);
 		c++;
