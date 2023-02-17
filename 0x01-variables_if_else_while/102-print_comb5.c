@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- * main- Entry point
+ * main - main block
+ * Description: Write a program that prints all possible
+ * different combinations of two digits
  * Retuen: 0
  */
 int main(void)
