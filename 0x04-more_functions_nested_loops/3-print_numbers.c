@@ -5,13 +5,13 @@
  */
 void print_numbers(void)
 {
-	int i;
+	char c;
 
-	i = 0;
-	while (i < 10)
+	c = '0';
+	while (c < '10')
 	{
-		_putchar (i + '0');
-		i++;
+		_putchar (c);
+		c++;
 	}
 
 	_putchar ('\n');
