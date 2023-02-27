@@ -1,12 +1,9 @@
 #include "main.h"
 
 /**
- * _puts - prints a string and a new line
- * @str: pointer to a string to print
- *
- * Return: 0
+ * _puts - prints a string to stdout
+ * @str: pointer to the string to print
  */
-
 void _puts(char *str)
 {
 	int i;
