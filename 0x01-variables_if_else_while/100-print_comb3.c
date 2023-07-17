@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - write a program that print all possible different 
+ * main - write a program that print all possible different
  * combinations of two digit numbers separated by ,and a space
  * followed by a new line
  *
@@ -22,15 +22,14 @@ int main(void)
 		putchar(b);
 
 		if (a == 56 && b == 57)
-			{
-				putchar('\n');
-			}
-			else 
-			{
-				putchar(',');
-				putchar(' ');
-			}
-
+		{
+			putchar('\n');
+		}
+		else
+		{
+			putchar(',');
+			putchar(' ');
+		}
 
 		b++;
 		}
