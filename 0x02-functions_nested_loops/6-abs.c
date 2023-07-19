@@ -3,7 +3,7 @@
 /**
  * _abs - write a function that computes the absolute value of an
  * integer
- * @int: int type
+ * @n: int type
  *
  * Return: 0
  */
@@ -14,7 +14,7 @@ int _abs(int n)
 	{
 		return (-n);
 	}
-	else 
+	else
 	{
 		return (n);
 	}
