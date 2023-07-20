@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isupper - Write a function that checks for a digit 0 to 9
+ * _isdigit - Write a function that checks for a digit 0 to 9
  * @c: int type
  *
  * Return: 1 if c is uppercase and 0 otherwise
