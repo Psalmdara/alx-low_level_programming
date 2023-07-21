@@ -22,5 +22,5 @@ int main(void)
 	}
 	printf("%lu", j);
 	putchar('\n');
-	return (0);	
+	return (0);
 }
