@@ -40,7 +40,7 @@ void puts_half(char *str)
 	}
 	else
 	{
-		i = (size - 1) / 2;
+		i = (size / 2) + 1;
 	}
 
 	for (i = i; i < size; i++)
